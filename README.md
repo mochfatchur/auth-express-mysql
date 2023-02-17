@@ -5,5 +5,5 @@ CRUD (Product n User) , Login n Register  (admin n user) with RBAC, Sequelize, E
 - npm install
 - npm run start
 
-# testing
+# Testing
 open auth-api-mysql.postman_collection.json with postman
